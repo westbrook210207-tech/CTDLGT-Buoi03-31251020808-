@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Họ và tên** | `[Điền họ tên]` |
-| **MSSV** | `[Điền MSSV]` |
-| **Lớp học phần** | `[Điền mã lớp học phần]` |
+| **Họ và tên** | `Nguyễn Văn Đạt` |
+| **MSSV** | `31251020808` |
+| **Lớp học phần** | `26C1INF50900706` |
 | **Môn học** | Cấu trúc dữ liệu và Giải thuật – Chương 3, Buổi 3 |
 | **Giảng viên** | TS. Nguyễn Thành Huy |
 
@@ -17,7 +17,7 @@ CTDLGT-Buoi03-MSSV/
 ├── Bai3/Program.cs       Tự cài đặt hàng đợi vòng CircularQueue<T>
 ├── Bai4/Program.cs       Thử thách – Phương án A: hàng đợi bằng hai ngăn xếp
 ├── README.md
-└── KetQuaThucNghiem.md
+
 ```
 
 Mỗi bài là một dự án Console riêng (kèm file `.csproj`) và toàn bộ mã nằm trong một file `Program.cs`: phần đầu là chương trình chính (đọc dữ liệu, chạy ca kiểm thử, đo thời gian), phần sau là lớp cài đặt thuật toán / cấu trúc dữ liệu.
