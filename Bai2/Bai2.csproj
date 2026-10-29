@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <!-- Cho phép chạy trên .NET 9/10 nếu máy không cài runtime .NET 8 -->
+    <RollForward>Major</RollForward>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- Bật tối ưu để đo thời gian ca lớn sát thực tế hơn -->
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+</Project>
